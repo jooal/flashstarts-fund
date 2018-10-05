@@ -7,7 +7,7 @@ Author URI : http://www.markups.io/
 .mu-hero-overlay,
 .mu-video-overlay {
 	background-color:rgb(13, 43, 124);/* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #64b3f4, rgb(13, 43, 124));  /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #64b3f4, #1f374a);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #64b3f4, #1f374a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
